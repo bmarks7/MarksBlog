@@ -1,4 +1,4 @@
-# Marks Blog
+# MarksBlog
 
 MarksBlog is a side project I created. 
 
